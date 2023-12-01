@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+<Image src='https://raw.githubusercontent.com/944095635/DMSplash/master/image/1.gif'></Image>
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
